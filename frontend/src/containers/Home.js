@@ -65,6 +65,7 @@ export default function Home() {
       <div className="lander">
         <h1>Scratch</h1>
         <p className="text-muted">Note taking app</p>
+        <p className="text-muted">To create your note, please Signup or Login first</p>
       </div>
     );
   }
